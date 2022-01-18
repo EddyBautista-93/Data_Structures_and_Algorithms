@@ -1,0 +1,16 @@
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\Data_Structures_and_Algorithms.exe
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\Data_Structures_and_Algorithms.deps.json
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\Data_Structures_and_Algorithms.runtimeconfig.json
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\Data_Structures_and_Algorithms.runtimeconfig.dev.json
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\Data_Structures_and_Algorithms.dll
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\ref\Data_Structures_and_Algorithms.dll
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\bin\Debug\net5.0\Data_Structures_and_Algorithms.pdb
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.csprojAssemblyReference.cache
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.AssemblyInfoInputs.cache
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.AssemblyInfo.cs
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.dll
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\ref\Data_Structures_and_Algorithms.dll
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.pdb
+C:\Users\bauti\source\cSharp-Practice\Data_Structures_and_Algorithms\obj\Debug\net5.0\Data_Structures_and_Algorithms.genruntimeconfig.cache
